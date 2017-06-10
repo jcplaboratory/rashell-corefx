@@ -1,0 +1,9 @@
+c:\users\cedri\Documents\Visual Studio 2017\Projects\rashell-corefx\rashell-corefx\bin\Debug\netcoreapp1.1\rashell-corefx.deps.json
+c:\users\cedri\Documents\Visual Studio 2017\Projects\rashell-corefx\rashell-corefx\bin\Debug\netcoreapp1.1\rashell-corefx.runtimeconfig.json
+c:\users\cedri\Documents\Visual Studio 2017\Projects\rashell-corefx\rashell-corefx\bin\Debug\netcoreapp1.1\rashell-corefx.runtimeconfig.dev.json
+c:\users\cedri\Documents\Visual Studio 2017\Projects\rashell-corefx\rashell-corefx\obj\Debug\netcoreapp1.1\rashell-corefx.csprojResolveAssemblyReference.cache
+c:\users\cedri\Documents\Visual Studio 2017\Projects\rashell-corefx\rashell-corefx\obj\Debug\netcoreapp1.1\rashell-corefx.AssemblyInfo.cs
+c:\users\cedri\Documents\Visual Studio 2017\Projects\rashell-corefx\rashell-corefx\bin\Debug\netcoreapp1.1\rashell-corefx.dll
+c:\users\cedri\Documents\Visual Studio 2017\Projects\rashell-corefx\rashell-corefx\bin\Debug\netcoreapp1.1\rashell-corefx.pdb
+c:\users\cedri\Documents\Visual Studio 2017\Projects\rashell-corefx\rashell-corefx\obj\Debug\netcoreapp1.1\rashell-corefx.dll
+c:\users\cedri\Documents\Visual Studio 2017\Projects\rashell-corefx\rashell-corefx\obj\Debug\netcoreapp1.1\rashell-corefx.pdb
