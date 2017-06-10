@@ -11,10 +11,10 @@ Rashell is developed by the J.C.P Laboratory <http://jcplaboratory.org>.
 Introduction
 --------------------------------------------
 
-This version is port of the original application which uses .NET Framework 4.6 to .NET Core.
-This port is very unstable and is not really for production.
+This version is a port of the original application which uses .NET Framework 4.6 to .NET Core.
+This port is very unstable and not really for production.
 
-Please used the full-fledge version:
+Please use the full-fledge version:
 http://github.com/jcplaboratory/rashell
 
 <code>Rashell</code> is created to be fully dynamic and customizable.
