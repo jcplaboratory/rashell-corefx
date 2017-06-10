@@ -1,9 +1,6 @@
-# Rashell - NET CORE PORT
+# Rashell - .Net Core Port
 Rashell is an Open-Source command processor for Windows.
 It takes cues from the Windows Command Prompt (CMD) and from Bash Shell <code>bash</code>.
-
-Please used the fully-fledge version:
-http://github.com/jcplaboratory/rashell
 
 Developers
 --------------------------------------------
@@ -16,6 +13,9 @@ Introduction
 
 This version is port of the original application which uses .NET Framework 4.6 to .NET Core.
 This port is very unstable and is not really for production.
+
+Please used the full-fledge version:
+http://github.com/jcplaboratory/rashell
 
 <code>Rashell</code> is created to be fully dynamic and customizable.
 Every behaviour of the Shell can be controlled from a configuration file <code>config.conf</code>. 
